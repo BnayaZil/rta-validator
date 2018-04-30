@@ -4,6 +4,6 @@ module.exports = {
     entry: './index.js',
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: 'rtavalidator.js'
+        filename: 'rta-validator.js'
     },
 };
