@@ -4,7 +4,8 @@
   "description": "A light-weight arguments validator",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,11 @@
   },
   "homepage": "https://github.com/bnayazil/rta-validator#readme",
   "devDependencies": {
-    "jest": "^22.4.3"
+    "jest": "^22.4.3",
+    "webpack-cli": "^2.1.2",
+    "webpack": "^4.6.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
   }
 }
