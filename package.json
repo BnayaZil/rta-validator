@@ -16,7 +16,7 @@
     "validator"
   ],
   "author": "Bnaya Zilberfarb <bnayazil@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bnayazil/rta-validator/issues"
   },
