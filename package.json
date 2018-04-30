@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnayazil/rtavalidator.git"
+    "url": "git+https://github.com/bnayazil/rta-validator.git"
   },
   "keywords": [
     "arguments",
@@ -17,9 +17,9 @@
   "author": "Bnaya Zilberfarb <bnayazil@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bnayazil/rtavalidator/issues"
+    "url": "https://github.com/bnayazil/rta-validator/issues"
   },
-  "homepage": "https://github.com/bnayazil/rtavalidator#readme",
+  "homepage": "https://github.com/bnayazil/rta-validator#readme",
   "devDependencies": {
     "jest": "^22.4.3"
   }
