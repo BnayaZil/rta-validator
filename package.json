@@ -1,0 +1,23 @@
+{
+  "name": "rtavalidator",
+  "version": "1.0.0",
+  "description": "A light-weight arguments validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnayazil/rtavalidator.git"
+  },
+  "keywords": [
+    "arguments",
+    "validator"
+  ],
+  "author": "Bnaya Zilberfarb <bnayazil@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bnayazil/rtavalidator/issues"
+  },
+  "homepage": "https://github.com/bnayazil/rtavalidator#readme"
+}
