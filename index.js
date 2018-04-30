@@ -1,4 +1,4 @@
-const rtaValidator = require('./src/art-validator.js')
+const rtaValidator = require('./lib/rta-validator.js')
 module.exports = rtaValidator
 
 if (typeof window !== 'undefined') {
