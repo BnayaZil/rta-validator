@@ -63,7 +63,7 @@ rtaValidator([
 Custom validator
 ```
 rtaValidator([
-    {name: 'baz', type: (v) => v === 3, val: 3},
+    {name: 'baz', type: (v) => v === 2, val: 3},
 ], (err) => err) // return error
 ```
 
